@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/zebra-stripe.png" width="100%" alt="" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2B2B2B&center=true&vCenter=true&width=505&height=44&lines=Engineering%20Digital%20Experiences" alt="Typing headlines" />
 </p>
 

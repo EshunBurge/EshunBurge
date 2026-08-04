@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/zebra-stripe-light.png" width="100%" height="10" alt="" />
+  <img src="assets/zebra-stripe-light.png" width="100%" alt="" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Looking to collaborate on **anything fun!!**
 Fun fact: **I love rap music.**
 
 <p align="center">
-  <img src="assets/zebra-stripe-light.png" width="100%" height="10" alt="" />
+  <img src="assets/zebra-stripe-light.png" width="100%" alt="" />
 </p>
 
 ### Tech Stack
@@ -50,7 +50,7 @@ Fun fact: **I love rap music.**
 </p>
 
 <p align="center">
-  <img src="assets/zebra-stripe-light.png" width="100%" height="10" alt="" />
+  <img src="assets/zebra-stripe-light.png" width="100%" alt="" />
 </p>
 
 ### Connect With Me
@@ -80,7 +80,7 @@ Fun fact: **I love rap music.**
 </p>
 
 <p align="center">
-  <img src="assets/zebra-stripe-light.png" width="100%" height="10" alt="" />
+  <img src="assets/zebra-stripe-light.png" width="100%" alt="" />
 </p>
 
 ### Dev Quote

@@ -8,16 +8,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=D4A017&center=true&vCenter=true&width=505&height=44&lines=Engineering%20Digital%20Experiences" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
+
+<img width="100%" height="2" src="https://img.shields.io/badge/-D4A017?style=flat-square" alt="" />
 
 I'm an International Baccalaureate Diploma Programme student at Southeast High School with a growing focus on computer science, engineering, and technology. Throughout middle and high school, my experience has centered on STEM through leadership, competition, and research. I currently serve as the 2025–2026 Florida TSA State Reporter and have been elected as the 2026–2027 Florida TSA State Secretary. Through TSA, I've competed at the district, state, and national levels, earning awards in website design and software development.
 
-🔭 &nbsp;I'm currently building **a community platform for women in STEM**  
-🌱 &nbsp;I'm currently learning **Python**  
-👯 &nbsp;I'm looking to collaborate on **anything fun!!**  
-⚡ &nbsp;Fun fact: **I love rap music.**
+| | |
+|---|---|
+| **Building** | A community platform for women in STEM |
+| **Learning** | Python |
+| **Open to** | Collaborating on anything fun |
+| **Off duty** | Probably listening to rap |
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-1a2744?style=for-the-badge&logo=html5&logoColor=D4A017" alt="HTML5" />
@@ -37,7 +41,7 @@ I'm an International Baccalaureate Diploma Programme student at Southeast High S
   <img src="https://img.shields.io/badge/Slack-1a2744?style=for-the-badge&logo=slack&logoColor=D4A017" alt="Slack" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-1a2744?style=for-the-badge&logo=linkedin&logoColor=D4A017" alt="LinkedIn" /></a>
@@ -49,24 +53,24 @@ I'm an International Baccalaureate Diploma Programme student at Southeast High S
   <a href="mailto:eshunburge@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-1a2744?style=for-the-badge&logo=gmail&logoColor=D4A017" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=EshunBurge&show_icons=true&theme=tokyonight&title_color=D4A017&icon_color=D4A017&text_color=c9d1d9&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=EshunBurge&layout=compact&theme=tokyonight&title_color=D4A017&icon_color=D4A017&text_color=c9d1d9&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EshunBurge&bg_color=00000000&color=D4A017&line=D4A017&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+### Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/EshunBurge">EshunBurge</a></i></p>
+<p align="center"><i>From <a href="https://github.com/EshunBurge">EshunBurge</a></i></p>

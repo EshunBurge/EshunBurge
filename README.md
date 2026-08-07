@@ -16,9 +16,9 @@
 
 I'm an International Baccalaureate Diploma Programme student at Southeast High School with a growing focus on computer science, engineering, and technology. Throughout middle and high school, my experience has centered on STEM through leadership, competition, and research. I currently serve as the 2025–2026 Florida TSA State Reporter and have been elected as the 2026–2027 Florida TSA State Secretary. Through TSA, I've competed at the district, state, and national levels, earning awards in website design and software development.
 
-Currently building **a community platform for women in STEM!!**  
-Currently learning **Python**  
-Looking to collaborate on **anything fun!!**  
+Currently building: **A community platform for women in STEM!!**  
+Currently learning: **Python**  
+Looking to collaborate on: **Anything fun!!**  
 Fun fact: **I love rap music.**
 
 <p align="center">

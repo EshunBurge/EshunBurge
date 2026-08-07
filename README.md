@@ -20,7 +20,6 @@ Currently building **a community platform for women in STEM!!**
 Currently learning **Python**  
 Looking to collaborate on **anything fun!!**  
 Fun fact: **I love rap music.**
-Connect with me: **CONNECT WITH ME** <a href="https://eshun.net/links" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Portfolio" /></a>
 
 <p align="center">
   <img src="assets/zebra-stripe.png" width="100%" alt="" />
@@ -53,7 +52,7 @@ Connect with me: **CONNECT WITH ME** <a href="https://eshun.net/links" target="_
 ### Connect With Me
 
 <p align="left">
-  <a href="https://eshun.net/links/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linktree-0a0a0a?style=for-the-badge&logo=linktree&logoColor=ffffff" alt="Linktree" /></a>
+  <a href="https://eshun.net/links/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linktree-0a0a0a?style=for-the-badge&logo=linktree&logoColor=ffffff" alt="All of my Links" /></a>
   <a href="https://linkedin.com/in/eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
   <a href="https://instagram.com/eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" /></a>
   <a href="https://tiktok.com/@eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-0a0a0a?style=for-the-badge&logo=tiktok&logoColor=ffffff" alt="TikTok" /></a>

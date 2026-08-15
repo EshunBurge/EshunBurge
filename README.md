@@ -16,36 +16,53 @@
 
 As an International Baccalaureate Diploma Programme student, I am passionate about computer science, engineering, and technology. Throughout middle and high school, my experiences have centered on STEM through leadership, competition, and research. I am actively involved in organizations including the Technology Student Association, HOSA Future Health Professionals, National STEM Honor Society, and varsity swimming. I currently serve as the 2025–2026 Florida TSA State Reporter and have been elected as the 2026–2027 Florida TSA State Secretary. Through TSA, I have competed at the district, state, and national levels, earning awards in website design, software development, public speaking, and graphic design.
 
-Through my school’s Research Program, I conduct independent STEM research and compete in science and engineering fairs. My research has advanced to the State Science and Engineering Fair and has received state level recognition. Outside of research, I stay involved in STEM outreach and mentorship opportunities that support younger students entering technical and competitive programs.
+Through my school's Research Program, I conduct independent STEM research and compete in science and engineering fairs. My research has advanced to the State Science and Engineering Fair and has received state level recognition. Outside of research, I stay involved in STEM outreach and mentorship opportunities that support younger students entering technical and competitive programs.
 
-Currently building: **A community platform for women in STEM!!**  
-Currently learning: **Python**  
-Looking to collaborate on: **Anything fun!!**  
+Currently building: **A community platform for women in STEM!!**
+Currently learning: **Python**
+Looking to collaborate on: **Anything fun!!**
 Fun fact: **I love rap music.**
 
 <p align="center">
   <img src="assets/zebra-stripe.png" width="100%" alt="" />
 </p>
 
-### Tech Stack
+### 🚀 Projects & Ventures
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
-  <img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=ffffff" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=ffffff" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-0a0a0a?style=for-the-badge&logo=gitlab&logoColor=ffffff" alt="GitLab" />
-  <img src="https://img.shields.io/badge/VS%20Code-0a0a0a?style=for-the-badge&logo=vscodium&logoColor=ffffff" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma" />
-  <img src="https://img.shields.io/badge/Notion-0a0a0a?style=for-the-badge&logo=notion&logoColor=ffffff" alt="Notion" />
-  <img src="https://img.shields.io/badge/Slack-0a0a0a?style=for-the-badge&logo=slack&logoColor=ffffff" alt="Slack" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[eshun.net](https://eshun.net)**
+
+_Add a short description here_
+
+</td>
+<td width="50%" valign="top">
+
+**[teshtechnology.com](https://teshtechnology.com)**
+
+_Add a short description here_
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[greenerpick.com](https://greenerpick.com)**
+
+_Add a short description here_
+
+</td>
+<td width="50%" valign="top">
+
+**[blocksat.app](https://blocksat.app)**
+
+_Add a short description here_
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="assets/zebra-stripe.png" width="100%" alt="" />
@@ -71,21 +88,18 @@ Fun fact: **I love rap music.**
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=EshunBurge&layout=compact&theme=tokyonight&title_color=1a1a1a&icon_color=3a3a3a&text_color=3a3a3a&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EshunBurge&bg_color=00000000&color=1a1a1a&line=3a3a3a&point=1a1a1a&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 <p align="center">
   <img src="assets/zebra-stripe.png" width="100%" alt="" />
 </p>
 
-### Dev Quote
+### Words I Live By
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev quote" />
+  <em>"Being different isn't a bad thing. It means you're brave enough to be yourself."</em>
+  <br />
+  <strong>— Luna Lovegood</strong>
 </p>
 
 ---
+
 <p align="center"><i>From <a href="https://github.com/EshunBurge">EshunBurge</a></i></p>

@@ -19,9 +19,9 @@ As an International Baccalaureate Diploma Programme student, I am passionate abo
 Through my school's Research Program, I conduct independent STEM research and compete in science and engineering fairs. My research has advanced to the State Science and Engineering Fair and has received state level recognition. Outside of research, I stay involved in STEM outreach and mentorship opportunities that support younger students entering technical and competitive programs.
 
 Currently building: **A community platform for women in STEM!!**
-Currently learning: **Python**
-Looking to collaborate on: **Anything fun!!**
-Fun fact: **I love rap music.**
+<br>Currently learning: **Python**
+<br>Looking to collaborate on: **Anything fun!!**
+<br>Fun fact: **I love rap music.**
 
 <p align="center">
   <img src="assets/zebra-stripe.png" width="100%" alt="" />

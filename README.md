@@ -29,42 +29,14 @@ Fun fact: **I love rap music.**
 
 ### Current Projects
 
-<p align="center"><i>A few things I'm building, from personal sites to startups.</i></p>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-<a href="https://eshun.net" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/eshun.net-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="eshun.net" /></a>
-
-<sub><i>Add a short description here</i></sub>
-
-</td>
-<td width="50%" align="center">
-
+<p align="left">
+  <a href="https://eshun.net" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/eshun.net-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="eshun.net" /></a>
+  <a href="https://eshun.net" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/eshun.net-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="eshun.net" /></a>
 <a href="https://teshtechnology.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tesh%20Technology-0a0a0a?style=for-the-badge&logo=framer&logoColor=ffffff" alt="teshtechnology.com" /></a>
-
-<sub><i>Add a short description here</i></sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
 <a href="https://greenerpick.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Greener%20Pick-0a0a0a?style=for-the-badge&logo=leaflet&logoColor=ffffff" alt="greenerpick.com" /></a>
-
-<sub><i>Add a short description here</i></sub>
-
-</td>
-<td width="50%" align="center">
-
 <a href="https://blocksat.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/BlockSat-0a0a0a?style=for-the-badge&logo=blockchaindotcom&logoColor=ffffff" alt="blocksat.app" /></a>
+</p>
 
-<sub><i>Add a short description here</i></sub>
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img src="assets/zebra-stripe.png" width="100%" alt="" />
@@ -77,6 +49,7 @@ Fun fact: **I love rap music.**
   <a href="https://linkedin.com/in/eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
   <a href="https://instagram.com/eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" /></a>
   <a href="https://tiktok.com/@eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-0a0a0a?style=for-the-badge&logo=tiktok&logoColor=ffffff" alt="TikTok" /></a>
+  <a href="https://youtube.com/@eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-0a0a0a?style=for-the-badge&logo=youtube&logoColor=ffffff" alt="YouTube" /></a>
   <a href="https://pinterest.com/eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pinterest-0a0a0a?style=for-the-badge&logo=pinterest&logoColor=ffffff" alt="Pinterest" /></a>
   <a href="https://eshun.net" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Portfolio" /></a>
   <a href="mailto:eshunburge@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
@@ -103,4 +76,4 @@ Fun fact: **I love rap music.**
 
 ---
 
-<p align="center"><i>XOXO <a href="https://github.com/EshunBurge">EshunBurge</a></i></p>
+<p align="center"><i>From <a href="https://github.com/EshunBurge">EshunBurge</a></i></p>

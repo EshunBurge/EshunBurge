@@ -48,7 +48,6 @@ Fun fact: **I love rap music.**
   <a href="https://linkedin.com/in/eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
   <a href="https://instagram.com/eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" /></a>
   <a href="https://tiktok.com/@eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-0a0a0a?style=for-the-badge&logo=tiktok&logoColor=ffffff" alt="TikTok" /></a>
-  <a href="https://youtube.com/@eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-0a0a0a?style=for-the-badge&logo=youtube&logoColor=ffffff" alt="YouTube" /></a>
   <a href="https://pinterest.com/eshunburge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pinterest-0a0a0a?style=for-the-badge&logo=pinterest&logoColor=ffffff" alt="Pinterest" /></a>
   <a href="https://eshun.net" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Portfolio" /></a>
   <a href="mailto:eshunburge@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>

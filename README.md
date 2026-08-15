@@ -31,7 +31,6 @@ Fun fact: **I love rap music.**
 
 <p align="left">
   <a href="https://eshun.net" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/eshun.net-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="eshun.net" /></a>
-  <a href="https://eshun.net" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/eshun.net-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="eshun.net" /></a>
 <a href="https://teshtechnology.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tesh%20Technology-0a0a0a?style=for-the-badge&logo=framer&logoColor=ffffff" alt="teshtechnology.com" /></a>
 <a href="https://greenerpick.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Greener%20Pick-0a0a0a?style=for-the-badge&logo=leaflet&logoColor=ffffff" alt="greenerpick.com" /></a>
 <a href="https://blocksat.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/BlockSat-0a0a0a?style=for-the-badge&logo=blockchaindotcom&logoColor=ffffff" alt="blocksat.app" /></a>

@@ -2,7 +2,9 @@
 
 <h3><a href="https://eshun.net/about/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EshunBurge/EshunBurge/HEAD/assets/h-hi-dark.svg"><img src="assets/h-hi-light.svg" alt="Hi, I’m Eshun."></picture></a></h3>
 
-As an International Baccalaureate Diploma Programme student, I’m passionate about computer science, engineering and technology. I serve as the 2026–27 Florida TSA State Secretary, have competed at the district, state and national levels, and conduct independent STEM research that has advanced to the State Science and Engineering Fair. In August 2026 I founded Tesh Technology, a digital software firm that builds websites, apps and AI automation.
+As an International Baccalaureate Diploma Programme student at Southeast High School, I am interested in computer science, engineering, and technology. Throughout middle and high school, my experience has centered around STEM through leadership, competition, and research. I am actively involved in numerous organizations including the Technology Student Association, HOSA Future Health Professionals, National STEM Honor Society, and varsity swimming. I currently serve as the 2026–2027 Florida TSA State Secretary and recently served as the 2025–2026 Florida TSA State Reporter. Through TSA, I have competed at the district, state, and national levels, earning awards in areas including website design, software development, public speaking, and graphic design.
+
+In addition to leadership and competition, I participate in the Southeast High School Research Program, where I conduct independent STEM research and compete in science and engineering fairs. My research has advanced to the State Science and Engineering Fair and has received state-level recognition. Outside of research, I stay involved in STEM outreach and mentorship opportunities that support younger students entering technical and competitive programs
 
 - **Building** · a community platform for women in STEM
 - **Learning** · Python
